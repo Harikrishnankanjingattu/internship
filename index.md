@@ -7,3 +7,4 @@
   ### [ python exp1](https://github.com/Harikrishnankanjingattu/internship/blob/main/exp5.py)
   ### [ python exp1](https://github.com/Harikrishnankanjingattu/internship/blob/main/exp2.py)
   ### [ python exp3](https://github.com/Harikrishnankanjingattu/internship/blob/main/exp3.py)
+ ### [odd even pgm]()
